@@ -1,0 +1,17 @@
+.container-fluid {
+  height: calc(100vh - 56px);
+  background-color: rgb(237, 238, 238);
+
+  > .row {
+    height: 100%;
+  }
+}
+
+.borda{
+  background-color: rgb(3, 3, 3);
+
+}
+
+.nav-link{
+  color: white;
+}
